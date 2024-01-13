@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\LENOVO\\Documents\\Final Year\\EmotionTracker-Project files\\Backend\\EmotionTrackingAPI\\model.tflearn"
+all_model_checkpoint_paths: "C:\\Users\\LENOVO\\Documents\\Final Year\\EmotionTracker-Project files\\Backend\\EmotionTrackingAPI\\model.tflearn"
